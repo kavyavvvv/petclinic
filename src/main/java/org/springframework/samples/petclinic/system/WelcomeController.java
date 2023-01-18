@@ -24,7 +24,7 @@ class WelcomeController {
 
 	@GetMapping("/")
 	public String welcome() {
-		return " welcome to the petclinic ";
+		return " welcome to the petclinic bb ";
 	}
 
 }
